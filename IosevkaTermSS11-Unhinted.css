@@ -5,7 +5,7 @@
 	font-weight: 100;
 	font-stretch: normal;
 	font-style: normal;
-	src: url('WOFF2-unhinted/IosevkaTermSS11-Thin.WOFF2') format('woff2'), url('TTF-unhinted/IosevkaTermSS11-Thin.TTF') format('truetype');
+	src: url('WOFF2-unhinted/IosevkaTermSS11-Thin.woff2') format('woff2'), url('TTF-unhinted/IosevkaTermSS11-Thin.ttf') format('truetype');
 }
 
 @font-face {
@@ -14,7 +14,7 @@
 	font-weight: 100;
 	font-stretch: expanded;
 	font-style: normal;
-	src: url('WOFF2-unhinted/IosevkaTermSS11-ExtendedThin.WOFF2') format('woff2'), url('TTF-unhinted/IosevkaTermSS11-ExtendedThin.TTF') format('truetype');
+	src: url('WOFF2-unhinted/IosevkaTermSS11-ExtendedThin.woff2') format('woff2'), url('TTF-unhinted/IosevkaTermSS11-ExtendedThin.ttf') format('truetype');
 }
 
 @font-face {
@@ -23,7 +23,7 @@
 	font-weight: 100;
 	font-stretch: normal;
 	font-style: oblique;
-	src: url('WOFF2-unhinted/IosevkaTermSS11-ThinOblique.WOFF2') format('woff2'), url('TTF-unhinted/IosevkaTermSS11-ThinOblique.TTF') format('truetype');
+	src: url('WOFF2-unhinted/IosevkaTermSS11-ThinOblique.woff2') format('woff2'), url('TTF-unhinted/IosevkaTermSS11-ThinOblique.ttf') format('truetype');
 }
 
 @font-face {
@@ -31,7 +31,7 @@
 	font-display: swap;
 	font-weight: 100;
 	font-stretch: normal;
-	src: url('WOFF2-unhinted/IosevkaTermSS11-ThinOblique.WOFF2') format('woff2'), url('TTF-unhinted/IosevkaTermSS11-ThinOblique.TTF') format('truetype');
+	src: url('WOFF2-unhinted/IosevkaTermSS11-ThinOblique.woff2') format('woff2'), url('TTF-unhinted/IosevkaTermSS11-ThinOblique.ttf') format('truetype');
 }
 
 @font-face {
@@ -40,7 +40,7 @@
 	font-weight: 100;
 	font-stretch: expanded;
 	font-style: oblique;
-	src: url('WOFF2-unhinted/IosevkaTermSS11-ExtendedThinOblique.WOFF2') format('woff2'), url('TTF-unhinted/IosevkaTermSS11-ExtendedThinOblique.TTF') format('truetype');
+	src: url('WOFF2-unhinted/IosevkaTermSS11-ExtendedThinOblique.woff2') format('woff2'), url('TTF-unhinted/IosevkaTermSS11-ExtendedThinOblique.ttf') format('truetype');
 }
 
 @font-face {
@@ -48,7 +48,7 @@
 	font-display: swap;
 	font-weight: 100;
 	font-stretch: expanded;
-	src: url('WOFF2-unhinted/IosevkaTermSS11-ExtendedThinOblique.WOFF2') format('woff2'), url('TTF-unhinted/IosevkaTermSS11-ExtendedThinOblique.TTF') format('truetype');
+	src: url('WOFF2-unhinted/IosevkaTermSS11-ExtendedThinOblique.woff2') format('woff2'), url('TTF-unhinted/IosevkaTermSS11-ExtendedThinOblique.ttf') format('truetype');
 }
 
 @font-face {
@@ -57,7 +57,7 @@
 	font-weight: 100;
 	font-stretch: normal;
 	font-style: italic;
-	src: url('WOFF2-unhinted/IosevkaTermSS11-ThinItalic.WOFF2') format('woff2'), url('TTF-unhinted/IosevkaTermSS11-ThinItalic.TTF') format('truetype');
+	src: url('WOFF2-unhinted/IosevkaTermSS11-ThinItalic.woff2') format('woff2'), url('TTF-unhinted/IosevkaTermSS11-ThinItalic.ttf') format('truetype');
 }
 
 @font-face {
@@ -66,7 +66,7 @@
 	font-weight: 100;
 	font-stretch: expanded;
 	font-style: italic;
-	src: url('WOFF2-unhinted/IosevkaTermSS11-ExtendedThinItalic.WOFF2') format('woff2'), url('TTF-unhinted/IosevkaTermSS11-ExtendedThinItalic.TTF') format('truetype');
+	src: url('WOFF2-unhinted/IosevkaTermSS11-ExtendedThinItalic.woff2') format('woff2'), url('TTF-unhinted/IosevkaTermSS11-ExtendedThinItalic.ttf') format('truetype');
 }
 
 @font-face {
@@ -75,7 +75,7 @@
 	font-weight: 200;
 	font-stretch: normal;
 	font-style: normal;
-	src: url('WOFF2-unhinted/IosevkaTermSS11-ExtraLight.WOFF2') format('woff2'), url('TTF-unhinted/IosevkaTermSS11-ExtraLight.TTF') format('truetype');
+	src: url('WOFF2-unhinted/IosevkaTermSS11-ExtraLight.woff2') format('woff2'), url('TTF-unhinted/IosevkaTermSS11-ExtraLight.ttf') format('truetype');
 }
 
 @font-face {
@@ -84,7 +84,7 @@
 	font-weight: 200;
 	font-stretch: expanded;
 	font-style: normal;
-	src: url('WOFF2-unhinted/IosevkaTermSS11-ExtendedExtraLight.WOFF2') format('woff2'), url('TTF-unhinted/IosevkaTermSS11-ExtendedExtraLight.TTF') format('truetype');
+	src: url('WOFF2-unhinted/IosevkaTermSS11-ExtendedExtraLight.woff2') format('woff2'), url('TTF-unhinted/IosevkaTermSS11-ExtendedExtraLight.ttf') format('truetype');
 }
 
 @font-face {
@@ -93,7 +93,7 @@
 	font-weight: 200;
 	font-stretch: normal;
 	font-style: oblique;
-	src: url('WOFF2-unhinted/IosevkaTermSS11-ExtraLightOblique.WOFF2') format('woff2'), url('TTF-unhinted/IosevkaTermSS11-ExtraLightOblique.TTF') format('truetype');
+	src: url('WOFF2-unhinted/IosevkaTermSS11-ExtraLightOblique.woff2') format('woff2'), url('TTF-unhinted/IosevkaTermSS11-ExtraLightOblique.ttf') format('truetype');
 }
 
 @font-face {
@@ -101,7 +101,7 @@
 	font-display: swap;
 	font-weight: 200;
 	font-stretch: normal;
-	src: url('WOFF2-unhinted/IosevkaTermSS11-ExtraLightOblique.WOFF2') format('woff2'), url('TTF-unhinted/IosevkaTermSS11-ExtraLightOblique.TTF') format('truetype');
+	src: url('WOFF2-unhinted/IosevkaTermSS11-ExtraLightOblique.woff2') format('woff2'), url('TTF-unhinted/IosevkaTermSS11-ExtraLightOblique.ttf') format('truetype');
 }
 
 @font-face {
@@ -110,7 +110,7 @@
 	font-weight: 200;
 	font-stretch: expanded;
 	font-style: oblique;
-	src: url('WOFF2-unhinted/IosevkaTermSS11-ExtendedExtraLightOblique.WOFF2') format('woff2'), url('TTF-unhinted/IosevkaTermSS11-ExtendedExtraLightOblique.TTF') format('truetype');
+	src: url('WOFF2-unhinted/IosevkaTermSS11-ExtendedExtraLightOblique.woff2') format('woff2'), url('TTF-unhinted/IosevkaTermSS11-ExtendedExtraLightOblique.ttf') format('truetype');
 }
 
 @font-face {
@@ -118,7 +118,7 @@
 	font-display: swap;
 	font-weight: 200;
 	font-stretch: expanded;
-	src: url('WOFF2-unhinted/IosevkaTermSS11-ExtendedExtraLightOblique.WOFF2') format('woff2'), url('TTF-unhinted/IosevkaTermSS11-ExtendedExtraLightOblique.TTF') format('truetype');
+	src: url('WOFF2-unhinted/IosevkaTermSS11-ExtendedExtraLightOblique.woff2') format('woff2'), url('TTF-unhinted/IosevkaTermSS11-ExtendedExtraLightOblique.ttf') format('truetype');
 }
 
 @font-face {
@@ -127,7 +127,7 @@
 	font-weight: 200;
 	font-stretch: normal;
 	font-style: italic;
-	src: url('WOFF2-unhinted/IosevkaTermSS11-ExtraLightItalic.WOFF2') format('woff2'), url('TTF-unhinted/IosevkaTermSS11-ExtraLightItalic.TTF') format('truetype');
+	src: url('WOFF2-unhinted/IosevkaTermSS11-ExtraLightItalic.woff2') format('woff2'), url('TTF-unhinted/IosevkaTermSS11-ExtraLightItalic.ttf') format('truetype');
 }
 
 @font-face {
@@ -136,7 +136,7 @@
 	font-weight: 200;
 	font-stretch: expanded;
 	font-style: italic;
-	src: url('WOFF2-unhinted/IosevkaTermSS11-ExtendedExtraLightItalic.WOFF2') format('woff2'), url('TTF-unhinted/IosevkaTermSS11-ExtendedExtraLightItalic.TTF') format('truetype');
+	src: url('WOFF2-unhinted/IosevkaTermSS11-ExtendedExtraLightItalic.woff2') format('woff2'), url('TTF-unhinted/IosevkaTermSS11-ExtendedExtraLightItalic.ttf') format('truetype');
 }
 
 @font-face {
@@ -145,7 +145,7 @@
 	font-weight: 300;
 	font-stretch: normal;
 	font-style: normal;
-	src: url('WOFF2-unhinted/IosevkaTermSS11-Light.WOFF2') format('woff2'), url('TTF-unhinted/IosevkaTermSS11-Light.TTF') format('truetype');
+	src: url('WOFF2-unhinted/IosevkaTermSS11-Light.woff2') format('woff2'), url('TTF-unhinted/IosevkaTermSS11-Light.ttf') format('truetype');
 }
 
 @font-face {
@@ -154,7 +154,7 @@
 	font-weight: 300;
 	font-stretch: expanded;
 	font-style: normal;
-	src: url('WOFF2-unhinted/IosevkaTermSS11-ExtendedLight.WOFF2') format('woff2'), url('TTF-unhinted/IosevkaTermSS11-ExtendedLight.TTF') format('truetype');
+	src: url('WOFF2-unhinted/IosevkaTermSS11-ExtendedLight.woff2') format('woff2'), url('TTF-unhinted/IosevkaTermSS11-ExtendedLight.ttf') format('truetype');
 }
 
 @font-face {
@@ -163,7 +163,7 @@
 	font-weight: 300;
 	font-stretch: normal;
 	font-style: oblique;
-	src: url('WOFF2-unhinted/IosevkaTermSS11-LightOblique.WOFF2') format('woff2'), url('TTF-unhinted/IosevkaTermSS11-LightOblique.TTF') format('truetype');
+	src: url('WOFF2-unhinted/IosevkaTermSS11-LightOblique.woff2') format('woff2'), url('TTF-unhinted/IosevkaTermSS11-LightOblique.ttf') format('truetype');
 }
 
 @font-face {
@@ -171,7 +171,7 @@
 	font-display: swap;
 	font-weight: 300;
 	font-stretch: normal;
-	src: url('WOFF2-unhinted/IosevkaTermSS11-LightOblique.WOFF2') format('woff2'), url('TTF-unhinted/IosevkaTermSS11-LightOblique.TTF') format('truetype');
+	src: url('WOFF2-unhinted/IosevkaTermSS11-LightOblique.woff2') format('woff2'), url('TTF-unhinted/IosevkaTermSS11-LightOblique.ttf') format('truetype');
 }
 
 @font-face {
@@ -180,7 +180,7 @@
 	font-weight: 300;
 	font-stretch: expanded;
 	font-style: oblique;
-	src: url('WOFF2-unhinted/IosevkaTermSS11-ExtendedLightOblique.WOFF2') format('woff2'), url('TTF-unhinted/IosevkaTermSS11-ExtendedLightOblique.TTF') format('truetype');
+	src: url('WOFF2-unhinted/IosevkaTermSS11-ExtendedLightOblique.woff2') format('woff2'), url('TTF-unhinted/IosevkaTermSS11-ExtendedLightOblique.ttf') format('truetype');
 }
 
 @font-face {
@@ -188,7 +188,7 @@
 	font-display: swap;
 	font-weight: 300;
 	font-stretch: expanded;
-	src: url('WOFF2-unhinted/IosevkaTermSS11-ExtendedLightOblique.WOFF2') format('woff2'), url('TTF-unhinted/IosevkaTermSS11-ExtendedLightOblique.TTF') format('truetype');
+	src: url('WOFF2-unhinted/IosevkaTermSS11-ExtendedLightOblique.woff2') format('woff2'), url('TTF-unhinted/IosevkaTermSS11-ExtendedLightOblique.ttf') format('truetype');
 }
 
 @font-face {
@@ -197,7 +197,7 @@
 	font-weight: 300;
 	font-stretch: normal;
 	font-style: italic;
-	src: url('WOFF2-unhinted/IosevkaTermSS11-LightItalic.WOFF2') format('woff2'), url('TTF-unhinted/IosevkaTermSS11-LightItalic.TTF') format('truetype');
+	src: url('WOFF2-unhinted/IosevkaTermSS11-LightItalic.woff2') format('woff2'), url('TTF-unhinted/IosevkaTermSS11-LightItalic.ttf') format('truetype');
 }
 
 @font-face {
@@ -206,7 +206,7 @@
 	font-weight: 300;
 	font-stretch: expanded;
 	font-style: italic;
-	src: url('WOFF2-unhinted/IosevkaTermSS11-ExtendedLightItalic.WOFF2') format('woff2'), url('TTF-unhinted/IosevkaTermSS11-ExtendedLightItalic.TTF') format('truetype');
+	src: url('WOFF2-unhinted/IosevkaTermSS11-ExtendedLightItalic.woff2') format('woff2'), url('TTF-unhinted/IosevkaTermSS11-ExtendedLightItalic.ttf') format('truetype');
 }
 
 @font-face {
@@ -215,7 +215,7 @@
 	font-weight: 400;
 	font-stretch: normal;
 	font-style: normal;
-	src: url('WOFF2-unhinted/IosevkaTermSS11-Regular.WOFF2') format('woff2'), url('TTF-unhinted/IosevkaTermSS11-Regular.TTF') format('truetype');
+	src: url('WOFF2-unhinted/IosevkaTermSS11-Regular.woff2') format('woff2'), url('TTF-unhinted/IosevkaTermSS11-Regular.ttf') format('truetype');
 }
 
 @font-face {
@@ -224,7 +224,7 @@
 	font-weight: 400;
 	font-stretch: expanded;
 	font-style: normal;
-	src: url('WOFF2-unhinted/IosevkaTermSS11-Extended.WOFF2') format('woff2'), url('TTF-unhinted/IosevkaTermSS11-Extended.TTF') format('truetype');
+	src: url('WOFF2-unhinted/IosevkaTermSS11-Extended.woff2') format('woff2'), url('TTF-unhinted/IosevkaTermSS11-Extended.ttf') format('truetype');
 }
 
 @font-face {
@@ -233,7 +233,7 @@
 	font-weight: 400;
 	font-stretch: normal;
 	font-style: oblique;
-	src: url('WOFF2-unhinted/IosevkaTermSS11-Oblique.WOFF2') format('woff2'), url('TTF-unhinted/IosevkaTermSS11-Oblique.TTF') format('truetype');
+	src: url('WOFF2-unhinted/IosevkaTermSS11-Oblique.woff2') format('woff2'), url('TTF-unhinted/IosevkaTermSS11-Oblique.ttf') format('truetype');
 }
 
 @font-face {
@@ -241,7 +241,7 @@
 	font-display: swap;
 	font-weight: 400;
 	font-stretch: normal;
-	src: url('WOFF2-unhinted/IosevkaTermSS11-Oblique.WOFF2') format('woff2'), url('TTF-unhinted/IosevkaTermSS11-Oblique.TTF') format('truetype');
+	src: url('WOFF2-unhinted/IosevkaTermSS11-Oblique.woff2') format('woff2'), url('TTF-unhinted/IosevkaTermSS11-Oblique.ttf') format('truetype');
 }
 
 @font-face {
@@ -250,7 +250,7 @@
 	font-weight: 400;
 	font-stretch: expanded;
 	font-style: oblique;
-	src: url('WOFF2-unhinted/IosevkaTermSS11-ExtendedOblique.WOFF2') format('woff2'), url('TTF-unhinted/IosevkaTermSS11-ExtendedOblique.TTF') format('truetype');
+	src: url('WOFF2-unhinted/IosevkaTermSS11-ExtendedOblique.woff2') format('woff2'), url('TTF-unhinted/IosevkaTermSS11-ExtendedOblique.ttf') format('truetype');
 }
 
 @font-face {
@@ -258,7 +258,7 @@
 	font-display: swap;
 	font-weight: 400;
 	font-stretch: expanded;
-	src: url('WOFF2-unhinted/IosevkaTermSS11-ExtendedOblique.WOFF2') format('woff2'), url('TTF-unhinted/IosevkaTermSS11-ExtendedOblique.TTF') format('truetype');
+	src: url('WOFF2-unhinted/IosevkaTermSS11-ExtendedOblique.woff2') format('woff2'), url('TTF-unhinted/IosevkaTermSS11-ExtendedOblique.ttf') format('truetype');
 }
 
 @font-face {
@@ -267,7 +267,7 @@
 	font-weight: 400;
 	font-stretch: normal;
 	font-style: italic;
-	src: url('WOFF2-unhinted/IosevkaTermSS11-Italic.WOFF2') format('woff2'), url('TTF-unhinted/IosevkaTermSS11-Italic.TTF') format('truetype');
+	src: url('WOFF2-unhinted/IosevkaTermSS11-Italic.woff2') format('woff2'), url('TTF-unhinted/IosevkaTermSS11-Italic.ttf') format('truetype');
 }
 
 @font-face {
@@ -276,7 +276,7 @@
 	font-weight: 400;
 	font-stretch: expanded;
 	font-style: italic;
-	src: url('WOFF2-unhinted/IosevkaTermSS11-ExtendedItalic.WOFF2') format('woff2'), url('TTF-unhinted/IosevkaTermSS11-ExtendedItalic.TTF') format('truetype');
+	src: url('WOFF2-unhinted/IosevkaTermSS11-ExtendedItalic.woff2') format('woff2'), url('TTF-unhinted/IosevkaTermSS11-ExtendedItalic.ttf') format('truetype');
 }
 
 @font-face {
@@ -285,7 +285,7 @@
 	font-weight: 500;
 	font-stretch: normal;
 	font-style: normal;
-	src: url('WOFF2-unhinted/IosevkaTermSS11-Medium.WOFF2') format('woff2'), url('TTF-unhinted/IosevkaTermSS11-Medium.TTF') format('truetype');
+	src: url('WOFF2-unhinted/IosevkaTermSS11-Medium.woff2') format('woff2'), url('TTF-unhinted/IosevkaTermSS11-Medium.ttf') format('truetype');
 }
 
 @font-face {
@@ -294,7 +294,7 @@
 	font-weight: 500;
 	font-stretch: expanded;
 	font-style: normal;
-	src: url('WOFF2-unhinted/IosevkaTermSS11-ExtendedMedium.WOFF2') format('woff2'), url('TTF-unhinted/IosevkaTermSS11-ExtendedMedium.TTF') format('truetype');
+	src: url('WOFF2-unhinted/IosevkaTermSS11-ExtendedMedium.woff2') format('woff2'), url('TTF-unhinted/IosevkaTermSS11-ExtendedMedium.ttf') format('truetype');
 }
 
 @font-face {
@@ -303,7 +303,7 @@
 	font-weight: 500;
 	font-stretch: normal;
 	font-style: oblique;
-	src: url('WOFF2-unhinted/IosevkaTermSS11-MediumOblique.WOFF2') format('woff2'), url('TTF-unhinted/IosevkaTermSS11-MediumOblique.TTF') format('truetype');
+	src: url('WOFF2-unhinted/IosevkaTermSS11-MediumOblique.woff2') format('woff2'), url('TTF-unhinted/IosevkaTermSS11-MediumOblique.ttf') format('truetype');
 }
 
 @font-face {
@@ -311,7 +311,7 @@
 	font-display: swap;
 	font-weight: 500;
 	font-stretch: normal;
-	src: url('WOFF2-unhinted/IosevkaTermSS11-MediumOblique.WOFF2') format('woff2'), url('TTF-unhinted/IosevkaTermSS11-MediumOblique.TTF') format('truetype');
+	src: url('WOFF2-unhinted/IosevkaTermSS11-MediumOblique.woff2') format('woff2'), url('TTF-unhinted/IosevkaTermSS11-MediumOblique.ttf') format('truetype');
 }
 
 @font-face {
@@ -320,7 +320,7 @@
 	font-weight: 500;
 	font-stretch: expanded;
 	font-style: oblique;
-	src: url('WOFF2-unhinted/IosevkaTermSS11-ExtendedMediumOblique.WOFF2') format('woff2'), url('TTF-unhinted/IosevkaTermSS11-ExtendedMediumOblique.TTF') format('truetype');
+	src: url('WOFF2-unhinted/IosevkaTermSS11-ExtendedMediumOblique.woff2') format('woff2'), url('TTF-unhinted/IosevkaTermSS11-ExtendedMediumOblique.ttf') format('truetype');
 }
 
 @font-face {
@@ -328,7 +328,7 @@
 	font-display: swap;
 	font-weight: 500;
 	font-stretch: expanded;
-	src: url('WOFF2-unhinted/IosevkaTermSS11-ExtendedMediumOblique.WOFF2') format('woff2'), url('TTF-unhinted/IosevkaTermSS11-ExtendedMediumOblique.TTF') format('truetype');
+	src: url('WOFF2-unhinted/IosevkaTermSS11-ExtendedMediumOblique.woff2') format('woff2'), url('TTF-unhinted/IosevkaTermSS11-ExtendedMediumOblique.ttf') format('truetype');
 }
 
 @font-face {
@@ -337,7 +337,7 @@
 	font-weight: 500;
 	font-stretch: normal;
 	font-style: italic;
-	src: url('WOFF2-unhinted/IosevkaTermSS11-MediumItalic.WOFF2') format('woff2'), url('TTF-unhinted/IosevkaTermSS11-MediumItalic.TTF') format('truetype');
+	src: url('WOFF2-unhinted/IosevkaTermSS11-MediumItalic.woff2') format('woff2'), url('TTF-unhinted/IosevkaTermSS11-MediumItalic.ttf') format('truetype');
 }
 
 @font-face {
@@ -346,7 +346,7 @@
 	font-weight: 500;
 	font-stretch: expanded;
 	font-style: italic;
-	src: url('WOFF2-unhinted/IosevkaTermSS11-ExtendedMediumItalic.WOFF2') format('woff2'), url('TTF-unhinted/IosevkaTermSS11-ExtendedMediumItalic.TTF') format('truetype');
+	src: url('WOFF2-unhinted/IosevkaTermSS11-ExtendedMediumItalic.woff2') format('woff2'), url('TTF-unhinted/IosevkaTermSS11-ExtendedMediumItalic.ttf') format('truetype');
 }
 
 @font-face {
@@ -355,7 +355,7 @@
 	font-weight: 600;
 	font-stretch: normal;
 	font-style: normal;
-	src: url('WOFF2-unhinted/IosevkaTermSS11-SemiBold.WOFF2') format('woff2'), url('TTF-unhinted/IosevkaTermSS11-SemiBold.TTF') format('truetype');
+	src: url('WOFF2-unhinted/IosevkaTermSS11-SemiBold.woff2') format('woff2'), url('TTF-unhinted/IosevkaTermSS11-SemiBold.ttf') format('truetype');
 }
 
 @font-face {
@@ -364,7 +364,7 @@
 	font-weight: 600;
 	font-stretch: expanded;
 	font-style: normal;
-	src: url('WOFF2-unhinted/IosevkaTermSS11-ExtendedSemiBold.WOFF2') format('woff2'), url('TTF-unhinted/IosevkaTermSS11-ExtendedSemiBold.TTF') format('truetype');
+	src: url('WOFF2-unhinted/IosevkaTermSS11-ExtendedSemiBold.woff2') format('woff2'), url('TTF-unhinted/IosevkaTermSS11-ExtendedSemiBold.ttf') format('truetype');
 }
 
 @font-face {
@@ -373,7 +373,7 @@
 	font-weight: 600;
 	font-stretch: normal;
 	font-style: oblique;
-	src: url('WOFF2-unhinted/IosevkaTermSS11-SemiBoldOblique.WOFF2') format('woff2'), url('TTF-unhinted/IosevkaTermSS11-SemiBoldOblique.TTF') format('truetype');
+	src: url('WOFF2-unhinted/IosevkaTermSS11-SemiBoldOblique.woff2') format('woff2'), url('TTF-unhinted/IosevkaTermSS11-SemiBoldOblique.ttf') format('truetype');
 }
 
 @font-face {
@@ -381,7 +381,7 @@
 	font-display: swap;
 	font-weight: 600;
 	font-stretch: normal;
-	src: url('WOFF2-unhinted/IosevkaTermSS11-SemiBoldOblique.WOFF2') format('woff2'), url('TTF-unhinted/IosevkaTermSS11-SemiBoldOblique.TTF') format('truetype');
+	src: url('WOFF2-unhinted/IosevkaTermSS11-SemiBoldOblique.woff2') format('woff2'), url('TTF-unhinted/IosevkaTermSS11-SemiBoldOblique.ttf') format('truetype');
 }
 
 @font-face {
@@ -390,7 +390,7 @@
 	font-weight: 600;
 	font-stretch: expanded;
 	font-style: oblique;
-	src: url('WOFF2-unhinted/IosevkaTermSS11-ExtendedSemiBoldOblique.WOFF2') format('woff2'), url('TTF-unhinted/IosevkaTermSS11-ExtendedSemiBoldOblique.TTF') format('truetype');
+	src: url('WOFF2-unhinted/IosevkaTermSS11-ExtendedSemiBoldOblique.woff2') format('woff2'), url('TTF-unhinted/IosevkaTermSS11-ExtendedSemiBoldOblique.ttf') format('truetype');
 }
 
 @font-face {
@@ -398,7 +398,7 @@
 	font-display: swap;
 	font-weight: 600;
 	font-stretch: expanded;
-	src: url('WOFF2-unhinted/IosevkaTermSS11-ExtendedSemiBoldOblique.WOFF2') format('woff2'), url('TTF-unhinted/IosevkaTermSS11-ExtendedSemiBoldOblique.TTF') format('truetype');
+	src: url('WOFF2-unhinted/IosevkaTermSS11-ExtendedSemiBoldOblique.woff2') format('woff2'), url('TTF-unhinted/IosevkaTermSS11-ExtendedSemiBoldOblique.ttf') format('truetype');
 }
 
 @font-face {
@@ -407,7 +407,7 @@
 	font-weight: 600;
 	font-stretch: normal;
 	font-style: italic;
-	src: url('WOFF2-unhinted/IosevkaTermSS11-SemiBoldItalic.WOFF2') format('woff2'), url('TTF-unhinted/IosevkaTermSS11-SemiBoldItalic.TTF') format('truetype');
+	src: url('WOFF2-unhinted/IosevkaTermSS11-SemiBoldItalic.woff2') format('woff2'), url('TTF-unhinted/IosevkaTermSS11-SemiBoldItalic.ttf') format('truetype');
 }
 
 @font-face {
@@ -416,7 +416,7 @@
 	font-weight: 600;
 	font-stretch: expanded;
 	font-style: italic;
-	src: url('WOFF2-unhinted/IosevkaTermSS11-ExtendedSemiBoldItalic.WOFF2') format('woff2'), url('TTF-unhinted/IosevkaTermSS11-ExtendedSemiBoldItalic.TTF') format('truetype');
+	src: url('WOFF2-unhinted/IosevkaTermSS11-ExtendedSemiBoldItalic.woff2') format('woff2'), url('TTF-unhinted/IosevkaTermSS11-ExtendedSemiBoldItalic.ttf') format('truetype');
 }
 
 @font-face {
@@ -425,7 +425,7 @@
 	font-weight: 700;
 	font-stretch: normal;
 	font-style: normal;
-	src: url('WOFF2-unhinted/IosevkaTermSS11-Bold.WOFF2') format('woff2'), url('TTF-unhinted/IosevkaTermSS11-Bold.TTF') format('truetype');
+	src: url('WOFF2-unhinted/IosevkaTermSS11-Bold.woff2') format('woff2'), url('TTF-unhinted/IosevkaTermSS11-Bold.ttf') format('truetype');
 }
 
 @font-face {
@@ -434,7 +434,7 @@
 	font-weight: 700;
 	font-stretch: expanded;
 	font-style: normal;
-	src: url('WOFF2-unhinted/IosevkaTermSS11-ExtendedBold.WOFF2') format('woff2'), url('TTF-unhinted/IosevkaTermSS11-ExtendedBold.TTF') format('truetype');
+	src: url('WOFF2-unhinted/IosevkaTermSS11-ExtendedBold.woff2') format('woff2'), url('TTF-unhinted/IosevkaTermSS11-ExtendedBold.ttf') format('truetype');
 }
 
 @font-face {
@@ -443,7 +443,7 @@
 	font-weight: 700;
 	font-stretch: normal;
 	font-style: oblique;
-	src: url('WOFF2-unhinted/IosevkaTermSS11-BoldOblique.WOFF2') format('woff2'), url('TTF-unhinted/IosevkaTermSS11-BoldOblique.TTF') format('truetype');
+	src: url('WOFF2-unhinted/IosevkaTermSS11-BoldOblique.woff2') format('woff2'), url('TTF-unhinted/IosevkaTermSS11-BoldOblique.ttf') format('truetype');
 }
 
 @font-face {
@@ -451,7 +451,7 @@
 	font-display: swap;
 	font-weight: 700;
 	font-stretch: normal;
-	src: url('WOFF2-unhinted/IosevkaTermSS11-BoldOblique.WOFF2') format('woff2'), url('TTF-unhinted/IosevkaTermSS11-BoldOblique.TTF') format('truetype');
+	src: url('WOFF2-unhinted/IosevkaTermSS11-BoldOblique.woff2') format('woff2'), url('TTF-unhinted/IosevkaTermSS11-BoldOblique.ttf') format('truetype');
 }
 
 @font-face {
@@ -460,7 +460,7 @@
 	font-weight: 700;
 	font-stretch: expanded;
 	font-style: oblique;
-	src: url('WOFF2-unhinted/IosevkaTermSS11-ExtendedBoldOblique.WOFF2') format('woff2'), url('TTF-unhinted/IosevkaTermSS11-ExtendedBoldOblique.TTF') format('truetype');
+	src: url('WOFF2-unhinted/IosevkaTermSS11-ExtendedBoldOblique.woff2') format('woff2'), url('TTF-unhinted/IosevkaTermSS11-ExtendedBoldOblique.ttf') format('truetype');
 }
 
 @font-face {
@@ -468,7 +468,7 @@
 	font-display: swap;
 	font-weight: 700;
 	font-stretch: expanded;
-	src: url('WOFF2-unhinted/IosevkaTermSS11-ExtendedBoldOblique.WOFF2') format('woff2'), url('TTF-unhinted/IosevkaTermSS11-ExtendedBoldOblique.TTF') format('truetype');
+	src: url('WOFF2-unhinted/IosevkaTermSS11-ExtendedBoldOblique.woff2') format('woff2'), url('TTF-unhinted/IosevkaTermSS11-ExtendedBoldOblique.ttf') format('truetype');
 }
 
 @font-face {
@@ -477,7 +477,7 @@
 	font-weight: 700;
 	font-stretch: normal;
 	font-style: italic;
-	src: url('WOFF2-unhinted/IosevkaTermSS11-BoldItalic.WOFF2') format('woff2'), url('TTF-unhinted/IosevkaTermSS11-BoldItalic.TTF') format('truetype');
+	src: url('WOFF2-unhinted/IosevkaTermSS11-BoldItalic.woff2') format('woff2'), url('TTF-unhinted/IosevkaTermSS11-BoldItalic.ttf') format('truetype');
 }
 
 @font-face {
@@ -486,7 +486,7 @@
 	font-weight: 700;
 	font-stretch: expanded;
 	font-style: italic;
-	src: url('WOFF2-unhinted/IosevkaTermSS11-ExtendedBoldItalic.WOFF2') format('woff2'), url('TTF-unhinted/IosevkaTermSS11-ExtendedBoldItalic.TTF') format('truetype');
+	src: url('WOFF2-unhinted/IosevkaTermSS11-ExtendedBoldItalic.woff2') format('woff2'), url('TTF-unhinted/IosevkaTermSS11-ExtendedBoldItalic.ttf') format('truetype');
 }
 
 @font-face {
@@ -495,7 +495,7 @@
 	font-weight: 800;
 	font-stretch: normal;
 	font-style: normal;
-	src: url('WOFF2-unhinted/IosevkaTermSS11-ExtraBold.WOFF2') format('woff2'), url('TTF-unhinted/IosevkaTermSS11-ExtraBold.TTF') format('truetype');
+	src: url('WOFF2-unhinted/IosevkaTermSS11-ExtraBold.woff2') format('woff2'), url('TTF-unhinted/IosevkaTermSS11-ExtraBold.ttf') format('truetype');
 }
 
 @font-face {
@@ -504,7 +504,7 @@
 	font-weight: 800;
 	font-stretch: expanded;
 	font-style: normal;
-	src: url('WOFF2-unhinted/IosevkaTermSS11-ExtendedExtraBold.WOFF2') format('woff2'), url('TTF-unhinted/IosevkaTermSS11-ExtendedExtraBold.TTF') format('truetype');
+	src: url('WOFF2-unhinted/IosevkaTermSS11-ExtendedExtraBold.woff2') format('woff2'), url('TTF-unhinted/IosevkaTermSS11-ExtendedExtraBold.ttf') format('truetype');
 }
 
 @font-face {
@@ -513,7 +513,7 @@
 	font-weight: 800;
 	font-stretch: normal;
 	font-style: oblique;
-	src: url('WOFF2-unhinted/IosevkaTermSS11-ExtraBoldOblique.WOFF2') format('woff2'), url('TTF-unhinted/IosevkaTermSS11-ExtraBoldOblique.TTF') format('truetype');
+	src: url('WOFF2-unhinted/IosevkaTermSS11-ExtraBoldOblique.woff2') format('woff2'), url('TTF-unhinted/IosevkaTermSS11-ExtraBoldOblique.ttf') format('truetype');
 }
 
 @font-face {
@@ -521,7 +521,7 @@
 	font-display: swap;
 	font-weight: 800;
 	font-stretch: normal;
-	src: url('WOFF2-unhinted/IosevkaTermSS11-ExtraBoldOblique.WOFF2') format('woff2'), url('TTF-unhinted/IosevkaTermSS11-ExtraBoldOblique.TTF') format('truetype');
+	src: url('WOFF2-unhinted/IosevkaTermSS11-ExtraBoldOblique.woff2') format('woff2'), url('TTF-unhinted/IosevkaTermSS11-ExtraBoldOblique.ttf') format('truetype');
 }
 
 @font-face {
@@ -530,7 +530,7 @@
 	font-weight: 800;
 	font-stretch: expanded;
 	font-style: oblique;
-	src: url('WOFF2-unhinted/IosevkaTermSS11-ExtendedExtraBoldOblique.WOFF2') format('woff2'), url('TTF-unhinted/IosevkaTermSS11-ExtendedExtraBoldOblique.TTF') format('truetype');
+	src: url('WOFF2-unhinted/IosevkaTermSS11-ExtendedExtraBoldOblique.woff2') format('woff2'), url('TTF-unhinted/IosevkaTermSS11-ExtendedExtraBoldOblique.ttf') format('truetype');
 }
 
 @font-face {
@@ -538,7 +538,7 @@
 	font-display: swap;
 	font-weight: 800;
 	font-stretch: expanded;
-	src: url('WOFF2-unhinted/IosevkaTermSS11-ExtendedExtraBoldOblique.WOFF2') format('woff2'), url('TTF-unhinted/IosevkaTermSS11-ExtendedExtraBoldOblique.TTF') format('truetype');
+	src: url('WOFF2-unhinted/IosevkaTermSS11-ExtendedExtraBoldOblique.woff2') format('woff2'), url('TTF-unhinted/IosevkaTermSS11-ExtendedExtraBoldOblique.ttf') format('truetype');
 }
 
 @font-face {
@@ -547,7 +547,7 @@
 	font-weight: 800;
 	font-stretch: normal;
 	font-style: italic;
-	src: url('WOFF2-unhinted/IosevkaTermSS11-ExtraBoldItalic.WOFF2') format('woff2'), url('TTF-unhinted/IosevkaTermSS11-ExtraBoldItalic.TTF') format('truetype');
+	src: url('WOFF2-unhinted/IosevkaTermSS11-ExtraBoldItalic.woff2') format('woff2'), url('TTF-unhinted/IosevkaTermSS11-ExtraBoldItalic.ttf') format('truetype');
 }
 
 @font-face {
@@ -556,7 +556,7 @@
 	font-weight: 800;
 	font-stretch: expanded;
 	font-style: italic;
-	src: url('WOFF2-unhinted/IosevkaTermSS11-ExtendedExtraBoldItalic.WOFF2') format('woff2'), url('TTF-unhinted/IosevkaTermSS11-ExtendedExtraBoldItalic.TTF') format('truetype');
+	src: url('WOFF2-unhinted/IosevkaTermSS11-ExtendedExtraBoldItalic.woff2') format('woff2'), url('TTF-unhinted/IosevkaTermSS11-ExtendedExtraBoldItalic.ttf') format('truetype');
 }
 
 @font-face {
@@ -565,7 +565,7 @@
 	font-weight: 900;
 	font-stretch: normal;
 	font-style: normal;
-	src: url('WOFF2-unhinted/IosevkaTermSS11-Heavy.WOFF2') format('woff2'), url('TTF-unhinted/IosevkaTermSS11-Heavy.TTF') format('truetype');
+	src: url('WOFF2-unhinted/IosevkaTermSS11-Heavy.woff2') format('woff2'), url('TTF-unhinted/IosevkaTermSS11-Heavy.ttf') format('truetype');
 }
 
 @font-face {
@@ -574,7 +574,7 @@
 	font-weight: 900;
 	font-stretch: expanded;
 	font-style: normal;
-	src: url('WOFF2-unhinted/IosevkaTermSS11-ExtendedHeavy.WOFF2') format('woff2'), url('TTF-unhinted/IosevkaTermSS11-ExtendedHeavy.TTF') format('truetype');
+	src: url('WOFF2-unhinted/IosevkaTermSS11-ExtendedHeavy.woff2') format('woff2'), url('TTF-unhinted/IosevkaTermSS11-ExtendedHeavy.ttf') format('truetype');
 }
 
 @font-face {
@@ -583,7 +583,7 @@
 	font-weight: 900;
 	font-stretch: normal;
 	font-style: oblique;
-	src: url('WOFF2-unhinted/IosevkaTermSS11-HeavyOblique.WOFF2') format('woff2'), url('TTF-unhinted/IosevkaTermSS11-HeavyOblique.TTF') format('truetype');
+	src: url('WOFF2-unhinted/IosevkaTermSS11-HeavyOblique.woff2') format('woff2'), url('TTF-unhinted/IosevkaTermSS11-HeavyOblique.ttf') format('truetype');
 }
 
 @font-face {
@@ -591,7 +591,7 @@
 	font-display: swap;
 	font-weight: 900;
 	font-stretch: normal;
-	src: url('WOFF2-unhinted/IosevkaTermSS11-HeavyOblique.WOFF2') format('woff2'), url('TTF-unhinted/IosevkaTermSS11-HeavyOblique.TTF') format('truetype');
+	src: url('WOFF2-unhinted/IosevkaTermSS11-HeavyOblique.woff2') format('woff2'), url('TTF-unhinted/IosevkaTermSS11-HeavyOblique.ttf') format('truetype');
 }
 
 @font-face {
@@ -600,7 +600,7 @@
 	font-weight: 900;
 	font-stretch: expanded;
 	font-style: oblique;
-	src: url('WOFF2-unhinted/IosevkaTermSS11-ExtendedHeavyOblique.WOFF2') format('woff2'), url('TTF-unhinted/IosevkaTermSS11-ExtendedHeavyOblique.TTF') format('truetype');
+	src: url('WOFF2-unhinted/IosevkaTermSS11-ExtendedHeavyOblique.woff2') format('woff2'), url('TTF-unhinted/IosevkaTermSS11-ExtendedHeavyOblique.ttf') format('truetype');
 }
 
 @font-face {
@@ -608,7 +608,7 @@
 	font-display: swap;
 	font-weight: 900;
 	font-stretch: expanded;
-	src: url('WOFF2-unhinted/IosevkaTermSS11-ExtendedHeavyOblique.WOFF2') format('woff2'), url('TTF-unhinted/IosevkaTermSS11-ExtendedHeavyOblique.TTF') format('truetype');
+	src: url('WOFF2-unhinted/IosevkaTermSS11-ExtendedHeavyOblique.woff2') format('woff2'), url('TTF-unhinted/IosevkaTermSS11-ExtendedHeavyOblique.ttf') format('truetype');
 }
 
 @font-face {
@@ -617,7 +617,7 @@
 	font-weight: 900;
 	font-stretch: normal;
 	font-style: italic;
-	src: url('WOFF2-unhinted/IosevkaTermSS11-HeavyItalic.WOFF2') format('woff2'), url('TTF-unhinted/IosevkaTermSS11-HeavyItalic.TTF') format('truetype');
+	src: url('WOFF2-unhinted/IosevkaTermSS11-HeavyItalic.woff2') format('woff2'), url('TTF-unhinted/IosevkaTermSS11-HeavyItalic.ttf') format('truetype');
 }
 
 @font-face {
@@ -626,5 +626,5 @@
 	font-weight: 900;
 	font-stretch: expanded;
 	font-style: italic;
-	src: url('WOFF2-unhinted/IosevkaTermSS11-ExtendedHeavyItalic.WOFF2') format('woff2'), url('TTF-unhinted/IosevkaTermSS11-ExtendedHeavyItalic.TTF') format('truetype');
+	src: url('WOFF2-unhinted/IosevkaTermSS11-ExtendedHeavyItalic.woff2') format('woff2'), url('TTF-unhinted/IosevkaTermSS11-ExtendedHeavyItalic.ttf') format('truetype');
 }
